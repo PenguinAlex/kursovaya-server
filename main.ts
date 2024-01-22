@@ -14,7 +14,7 @@ export interface TodoI {
     id: number,
     value: string,
     isCompleted: boolean,
-    date:String
+    date:string
 }
 const todoScheme = new Schema<TodoI>({
     id: Number,

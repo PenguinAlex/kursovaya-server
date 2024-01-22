@@ -1,2 +1,4 @@
 # Project exclude paths
-/main.js
+main.js
+node_modules
+.env
